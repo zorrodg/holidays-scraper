@@ -1,0 +1,23 @@
+{
+  "name": "colombian-holidays-scraper",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:zorrodg/colombian-holidays-scraper.git",
+  "author": "Andres Zorro <andres.zorro@zemoga.com>",
+  "engines": {
+    "node": ">=6",
+    "yarn": "*"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "moment": "^2.17.1",
+    "node-fetch": "^1.6.3",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {
+    "debug": "^2.6.3",
+    "eslint": "^3.18.0",
+    "eslint-config-google": "~0.7.1"
+  }
+}

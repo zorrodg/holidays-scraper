@@ -1,2 +1,2 @@
-# colombian-holidays-scraper
-Get Colombian holidays as a REST API
+# holidays-scraper
+Get holidays as a REST API
