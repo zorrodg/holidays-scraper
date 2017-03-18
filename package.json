@@ -8,6 +8,9 @@
     "node": ">=6",
     "yarn": "*"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "license": "MIT",
   "dependencies": {
     "cheerio": "^0.22.0",
